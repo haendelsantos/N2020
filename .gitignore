@@ -1,0 +1,7 @@
+/Broker/node_modules
+/Subscriber/node_modules
+/Publisher/node_modules
+
+/Broker/package-lock.json
+/Subscriber/package-lock.json
+/Publisher/package-lock.json
