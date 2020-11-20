@@ -1,0 +1,7 @@
+{
+    "broker": {
+        "port": 1883,
+        "topic": "log-gps",
+        "endpoint": "mqtt://localhost:"
+    }
+}

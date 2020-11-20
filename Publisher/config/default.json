@@ -1,10 +1,4 @@
 {
-    "web": {
-        "port": 3000,
-        "host": "0.0.0.0"
-    },
-    "db": {
-    },
     "broker": {
         "port": 1883,
         "topic": "log-gps",

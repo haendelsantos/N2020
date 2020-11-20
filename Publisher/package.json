@@ -12,6 +12,7 @@
   "dependencies": {
     "config": "^3.3.2",
     "express": "^4.17.1",
+    "live-server": "^1.2.1",
     "mosca": "^0.6.0",
     "mqtt": "^4.2.5",
     "nodemon": "^2.0.6"

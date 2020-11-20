@@ -3,9 +3,13 @@
         "port": 3000
     },
     "db": {
+       "password": "root",
+        "database": "logs",
+        "user": "root"
     },
     "broker": {
         "port": 1883,
-        "topic": "log-gps"
+        "topic": "log-gps",
+        "endpoint": "mqtt://localhost:"
     }
 }
