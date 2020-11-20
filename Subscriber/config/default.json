@@ -1,0 +1,11 @@
+{
+    "app": {
+        "port": 3000
+    },
+    "db": {
+    },
+    "broker": {
+        "port": 1883,
+        "topic": "log-gps"
+    }
+}
