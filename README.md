@@ -22,35 +22,35 @@ O projeto está em node.js utilizando o pacote mosca para realizar a interação
 
 ### Publisher
 
+Install Dependencies
 ```
 npm install
 ```
-**Start Server**
+Start Server
 ```
 npm start
 ```
 ### Broker
+Install Dependencies
 ```
 npm install
 ```
-**Start Server**
+Start Server
 ```
 npm start
 ```
 
 ### Subscriber
-**Start Database**
 
+Start Database
 ```
 docker-compose up -d
 ```
-
-**Install Dependencies**
+Install Dependencies
 ```
 npm install
 ```
-
-**Start Server**
+Start Server
 ```
 npm start
 ```
